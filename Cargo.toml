@@ -11,7 +11,7 @@ default = ["serde", "deps-serde"]
 deps-serde = ["chrono/serde", "url/serde"]
 
 [dependencies]
-clap = "3.0.0-beta.4"
+clap = "4.0.14"
 chrono = "0.4.7"
 env_logger = "0.6.1"
 log = "0.4.14"
